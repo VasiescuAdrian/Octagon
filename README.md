@@ -65,3 +65,7 @@ POST /api/generate
 
 ---
 
+## Workflow
+
+(images/diagrama.png)
+
