@@ -32,7 +32,6 @@ The application exposes a REST API that allows external applications to request 
 
 ---
 
----
 
 ## Request Example (if we use ThunderClient , not our  web page)
 
