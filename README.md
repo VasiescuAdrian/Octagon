@@ -69,4 +69,12 @@ POST /api/generate
 
 ![Sequence Diagram](images/diagrama.png)
 
+---
+
+
+## ScreenShots
+
+
+
+
 
