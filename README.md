@@ -97,7 +97,7 @@ pickers with live preview.
 
 ## My contribution
 
-This project was made by a four member team, me included. I duplicated the project to have it safely stored on my personal github.
+This project was made by a four member team. I duplicated the project to have it safely stored on my personal github.
 
 My responsabilities included:
 
