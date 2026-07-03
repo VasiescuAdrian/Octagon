@@ -67,5 +67,6 @@ POST /api/generate
 
 ## Workflow
 
-(images/diagrama.png)
+![Sequence Diagram](images/diagrama.png)
+
 
