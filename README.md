@@ -1,6 +1,6 @@
 # Octagon – Organizational Chart PowerPoint Generator
 
-A backend service that automatically generates Microsoft PowerPoint organizational charts from hierarchical data stored in MongoDB.
+Octagon is a backend REST API that generates Nokia organizational charts in PowerPoint format from hierarchical data stored in MongoDB. The service is designed to be consumed by the Sort Tool, which sends generation requests through the API.
 
 The application exposes a REST API that allows external applications to request a PowerPoint presentation for a specific organization. It retrieves the organization's hierarchy, applies business rules, maps the data into presentation models, and generates a `.pptx` file using a predefined template.
 
@@ -92,3 +92,18 @@ pickers with live preview.
 - Generated PowerPoint — primary organization slide with hyperlinked sub-organization boxes and "back to  main parent" button
 
 ![Main Screen](images/screen4.png)
+
+
+---
+
+## My contribution
+
+This project was made by a four member team, me included. I duplicated the project to have it safely stored on my personal github.
+
+My responsabilities included:
+
+- Designing and implementing the REST API endpoints.
+- Coordinating the backend workflow between the different services.
+- Implementing the request and response models
+- Developing the landing page (`index.html`) used to interact efficiently with the service.
+- Testing, debugging, and validating the complete generation workflow, done not only by me, but by the rest of the team aswell.
