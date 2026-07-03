@@ -74,7 +74,21 @@ POST /api/generate
 
 ## ScreenShots
 
+- Main screen — organization name search with live dropdown suggestions.
+
+![Main Screen](images/screen1.png)
 
 
+- Color customization — presets (Nokia Blue, Slate, Teal, Graphite, Plum) and custom per-role color
+pickers with live preview.
+
+![Main Screen](images/screen2.png)
 
 
+- Generated result — success message with the download link for the .pptx.
+
+![Main Screen](images/screen3.png)
+
+- Generated PowerPoint — primary organization slide with hyperlinked sub-organization boxes and "back to  main parent" button
+
+![Main Screen](images/screen4.png)
